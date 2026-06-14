@@ -48,4 +48,4 @@ See `Project_Flow_Report.docx` for a diagram and explanation of the application'
 
 ## Author
 
-Muhammad Hassan — BSCS, SZABIST Gharo Campus
+Muhammad Hassan 
