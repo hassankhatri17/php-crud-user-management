@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
+
+# Environment / config (if you separate credentials later)
+.env
+config.local.php
+
+# Dependencies (if you add Composer later)
+/vendor/
+composer.lock
